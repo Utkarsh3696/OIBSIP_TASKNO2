@@ -1,0 +1,14 @@
+
+ 
+Name: Rama
+BMI: 22.50
+Status: Normal
+Gender: Male
+age: 32 
+ 
+Name: Lana
+BMI: 12.35
+Status: Underweight
+Gender: Female
+age: 23 
+ 
